@@ -4,7 +4,11 @@ double plus(double a, double b){
 	return a + b;
 }
 
-double minusu(double c, double d){
+double multi(double a, double b){
+	return a * b;
+}
+
+double minus(double c, double d){
 	return c - d;
 }
 
