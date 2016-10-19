@@ -5,7 +5,11 @@ double plus(double a, double b){
 }
 
 double minus(double c, double d){
-	return c - d;
+		return c - d;
+}
+
+double multi(double a, double b){
+	return a * b;
 }
 
 int main(void){
