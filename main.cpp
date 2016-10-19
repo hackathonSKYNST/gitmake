@@ -4,21 +4,12 @@ double plus(double a, double b){
 	return a + b;
 }
 
-<<<<<<< HEAD
-double multi(double a, double b){
-	return a * b;
-}
-
-double minus(double c, double d){
-	return c - d;
-=======
 double minus(double c, double d){
 		return c - d;
 }
 
 double multi(double a, double b){
 	return a * b;
->>>>>>> tigrig01
 }
 
 int main(void){
